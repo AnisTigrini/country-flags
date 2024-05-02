@@ -6,18 +6,18 @@ The developer seems to be AFK... This projects aims to correct the issues that w
 ## Install
 
 ```sh
-$ npm install country-flags-svg
+$ npm install country-flags-svg-v2
 ```
 or
 
 ```sh
-$ yarn add country-flags-svg
+$ yarn add country-flags-svg-v2
 ```
 
 ## Usage
 
 ```js
-import { findFlagUrlByNationality } from "country-flags-svg";
+import { findFlagUrlByNationality } from "country-flags-svg-v2";
 
 const flagUrl = findFlagUrlByNationality("Australian");
 // => "http://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg"
@@ -25,7 +25,7 @@ const flagUrl = findFlagUrlByNationality("Australian");
 ```
 
 ```js
-import { countries } from "country-flags-svg";
+import { countries } from "country-flags-svg-v2";
 
 const australia = countries[0];
 
