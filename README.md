@@ -1,4 +1,4 @@
-# country-flags
+# country-flags-svg-v2
 
 This has been taken from [country-flags-svg](https://github.com/ronatskiy/country-flags-svg).
 The developer seems to be AFK... This projects aims to correct the issues that were brought up.
