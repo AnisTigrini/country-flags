@@ -1,0 +1,19 @@
+{
+  "name": "country-flags",
+  "version": "1.0.0",
+  "description": "A list of country flags for js/ts usage.",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsup "
+  },
+  "keywords": [
+    "country", " flags"
+  ],
+  "author": "Anis Tigrini",
+  "license": "ISC",
+  "dependencies": {
+    "tsup": "^8.0.2",
+    "typescript": "^5.4.5"
+  }
+}
