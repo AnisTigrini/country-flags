@@ -1,17 +1,26 @@
 {
   "name": "country-flags",
   "version": "1.0.0",
-  "description": "A list of country flags for js/ts usage.",
+  "description": "A list of country flags to use in your js/ts projects.",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "scripts": {
-    "build": "tsup "
+    "clean" : "rm -r ./dist",
+    "build": "tsup"
   },
-  "keywords": [
-    "country", " flags"
-  ],
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/AnisTigrini/country-flags.git"
+	},
+  "homepage": "https://github.com/AnisTigrini/country-flags",
+	"keywords": [
+		"country",
+		"flags",
+		"svg",
+		"country-flags"
+	],
   "author": "Anis Tigrini",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "tsup": "^8.0.2",
     "typescript": "^5.4.5"
