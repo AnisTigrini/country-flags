@@ -60,6 +60,13 @@ const countries = [
 		iso3: "AIA",
 	},
 	{
+		name : "Antartica",
+		demonym: "Antarcticans",
+		flag: createUrl("/b/bb/Proposed_flag_of_Antarctica_%28Graham_Bartram%29.svg"),
+		iso2: "AQ",
+		iso3: "ATA",	
+	},
+	{
 		name: "Antigua and Barbuda",
 		demonym: "Antiguan Barbudan",
 		flag: createUrl("/8/89/Flag_of_Antigua_and_Barbuda.svg"),
