@@ -60,11 +60,11 @@ const countries = [
 		iso3: "AIA",
 	},
 	{
-		name : "Antartica",
+		name: "Antartica",
 		demonym: "Antarcticans",
 		flag: createUrl("/b/bb/Proposed_flag_of_Antarctica_%28Graham_Bartram%29.svg"),
 		iso2: "AQ",
-		iso3: "ATA",	
+		iso3: "ATA",
 	},
 	{
 		name: "Antigua and Barbuda",
@@ -664,7 +664,7 @@ const countries = [
 	{
 		name: "Holy See",
 		demonym: "Papal",
-		flag: createUrl("/3/39/Flag_of_the_Vatican_City_%282023%E2%80%93present%29.svg"),		iso2: "VA",
+		flag: createUrl("/3/39/Flag_of_the_Vatican_City_%282023%E2%80%93present%29.svg"), iso2: "VA",
 		iso3: "VAT",
 		altSpellings: ["Vatican"],
 	},
@@ -825,7 +825,7 @@ const countries = [
 	{
 		name: "Kyrgyzstan",
 		demonym: "Kyrgyzstani",
-		flag: createUrl("/3/31/Flag_of_Kyrgyzstan_%282023%29.svg"),
+		flag: createUrl("/c/c7/Flag_of_Kyrgyzstan.svg"),
 		iso2: "KG",
 		iso3: "KGZ",
 	},
