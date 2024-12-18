@@ -1522,7 +1522,7 @@ const countries = [
 	{
 		name: "Syria",
 		demonym: "Syrian",
-		flag: createUrl("/5/53/Flag_of_Syria.svg"),
+		flag: createUrl("/1/14/Flag_of_the_Syrian_revolution.svg"),
 		iso2: "SY",
 		iso3: "SYR",
 	},
