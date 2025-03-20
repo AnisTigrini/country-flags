@@ -664,7 +664,7 @@ const countries = [
 	{
 		name: "Holy See",
 		demonym: "Papal",
-		flag: createUrl("/3/39/Flag_of_the_Vatican_City_%282023%E2%80%93present%29.svg"), iso2: "VA",
+		flag: createUrl("/b/b3/Flag_of_Vatican_City_%282023%E2%80%93present%29.svg"), iso2: "VA",
 		iso3: "VAT",
 		altSpellings: ["Vatican"],
 	},
