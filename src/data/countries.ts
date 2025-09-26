@@ -188,7 +188,7 @@ const countries = [
 	{
 		name: "Bolivia",
 		demonym: "Bolivian",
-		flag: createUrl("/d/de/Flag_of_Bolivia_%28state%29.svg"),
+		flag: createUrl("/b/b3/Bandera_de_Bolivia_%28Estado%29.svg"),
 		iso2: "BO",
 		iso3: "BOL",
 	},
@@ -328,7 +328,7 @@ const countries = [
 	{
 		name: "Cocos Islands",
 		demonym: "Cocos Islandian",
-		flag: createUrl("/7/74/Flag_of_the_Cocos_(Keeling)_Islands.svg"),
+		flag: createUrl("/b/b9/Flag_of_Cocos_%28Keeling%29_Islands_%28WFB_2000%29.jpg"),
 		iso2: "CC",
 		iso3: "CCK",
 	},
@@ -671,7 +671,7 @@ const countries = [
 	{
 		name: "Honduras",
 		demonym: "Honduran",
-		flag: createUrl("/8/82/Flag_of_Honduras.svg"),
+		flag: createUrl("/a/a7/Flag_of_Honduras_%28Maya_blue%29.png"),
 		iso2: "HN",
 		iso3: "HND",
 	},
@@ -1522,7 +1522,7 @@ const countries = [
 	{
 		name: "Syria",
 		demonym: "Syrian",
-		flag: createUrl("/1/14/Flag_of_the_Syrian_revolution.svg"),
+		flag: createUrl("/5/54/Flag_of_Syria_%282025-%29.svg"),
 		iso2: "SY",
 		iso3: "SYR",
 	},
