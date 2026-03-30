@@ -62,7 +62,9 @@ const countries = [
 	{
 		name: "Antartica",
 		demonym: "Antarcticans",
-		flag: createUrl("/b/bb/Proposed_flag_of_Antarctica_%28Graham_Bartram%29.svg"),
+		flag: createUrl(
+			"/b/bb/Proposed_flag_of_Antarctica_%28Graham_Bartram%29.svg",
+		),
 		iso2: "AQ",
 		iso3: "ATA",
 	},
@@ -664,7 +666,10 @@ const countries = [
 	{
 		name: "Holy See",
 		demonym: "Papal",
-		flag: createUrl("/3/39/Flag_of_the_Vatican_City_%282023%E2%80%93present%29.svg"), iso2: "VA",
+		flag: createUrl(
+			"/3/39/Flag_of_the_Vatican_City_%282023%E2%80%93present%29.svg",
+		),
+		iso2: "VA",
 		iso3: "VAT",
 		altSpellings: ["Vatican"],
 	},
@@ -713,7 +718,9 @@ const countries = [
 	{
 		name: "British Indian Ocean Territory",
 		demonym: "British Indian Oceanian",
-		flag: createUrl("/6/65/Flag_of_the_Commissioner_of_the_British_Indian_Ocean_Territory.svg"),
+		flag: createUrl(
+			"/6/65/Flag_of_the_Commissioner_of_the_British_Indian_Ocean_Territory.svg",
+		),
 		iso2: "IO",
 		iso3: "IOT",
 	},
@@ -951,7 +958,9 @@ const countries = [
 	{
 		name: "Martinique",
 		demonym: "Martinican",
-		flag: createUrl("/2/21/Flag_of_the_Territorial_Collectivity_of_Martinique.svg"),
+		flag: createUrl(
+			"/2/21/Flag_of_the_Territorial_Collectivity_of_Martinique.svg",
+		),
 		iso2: "MQ",
 		iso3: "MTQ",
 	},
@@ -1070,7 +1079,9 @@ const countries = [
 	{
 		name: "Netherlands Antilles",
 		demonym: "Netherlands Antillean",
-		flag: createUrl("/e/eb/Flag_of_the_Netherlands_Antilles_(1959%E2%80%931986).svg"),
+		flag: createUrl(
+			"/e/eb/Flag_of_the_Netherlands_Antilles_(1959%E2%80%931986).svg",
+		),
 		iso2: "AN",
 		iso3: "ANT",
 	},
@@ -1444,7 +1455,9 @@ const countries = [
 	{
 		name: "South Georgia and the South Sandwich Islands",
 		demonym: "South Georgian",
-		flag: createUrl("/e/ed/Flag_of_South_Georgia_and_the_South_Sandwich_Islands.svg"),
+		flag: createUrl(
+			"/e/ed/Flag_of_South_Georgia_and_the_South_Sandwich_Islands.svg",
+		),
 		iso2: "GS",
 		iso3: "SGS",
 	},
@@ -1522,7 +1535,7 @@ const countries = [
 	{
 		name: "Syria",
 		demonym: "Syrian",
-		flag: createUrl("/1/14/Flag_of_the_Syrian_revolution.svg"),
+		flag: createUrl("/1/14/Flag_of_Syria_(2025-).svg"),
 		iso2: "SY",
 		iso3: "SYR",
 	},
