@@ -190,7 +190,7 @@ const countries = [
 	{
 		name: "Bolivia",
 		demonym: "Bolivian",
-		flag: createUrl("/d/de/Flag_of_Bolivia_%28state%29.svg"),
+		flag: createUrl("/b/b3/Bandera_de_Bolivia_%28Estado%29.svg"),
 		iso2: "BO",
 		iso3: "BOL",
 	},
@@ -330,7 +330,7 @@ const countries = [
 	{
 		name: "Cocos Islands",
 		demonym: "Cocos Islandian",
-		flag: createUrl("/7/74/Flag_of_the_Cocos_(Keeling)_Islands.svg"),
+		flag: createUrl("/b/b9/Flag_of_Cocos_%28Keeling%29_Islands_%28WFB_2000%29.jpg"),
 		iso2: "CC",
 		iso3: "CCK",
 	},
@@ -666,17 +666,14 @@ const countries = [
 	{
 		name: "Holy See",
 		demonym: "Papal",
-		flag: createUrl(
-			"/3/39/Flag_of_the_Vatican_City_%282023%E2%80%93present%29.svg",
-		),
-		iso2: "VA",
+		flag: createUrl("/b/b3/Flag_of_Vatican_City_%282023%E2%80%93present%29.svg"), iso2: "VA",
 		iso3: "VAT",
 		altSpellings: ["Vatican"],
 	},
 	{
 		name: "Honduras",
 		demonym: "Honduran",
-		flag: createUrl("/8/82/Flag_of_Honduras.svg"),
+		flag: createUrl("/a/a7/Flag_of_Honduras_%28Maya_blue%29.png"),
 		iso2: "HN",
 		iso3: "HND",
 	},

@@ -6,7 +6,7 @@
       "moduleResolution": "Node",
       "esModuleInterop": true,
       "forceConsistentCasingInFileNames": true,
-      "strict": true,                          
+      "strict": true,
       "noUnusedLocals": true,                        
       "noUnusedParameters": true,                       
       "skipLibCheck": true                              
